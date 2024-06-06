@@ -8,8 +8,9 @@
 - 📫 How to reach me:
   - https://www.linkedin.com/in/elordeiro/
 - 💼 My portfolio:
-  - https://estevao.lordeiro.com  
-  Some of my past work
+  - https://estevao.lordeiro.com
+    
+Some of my past work
 - 📋 Online Batteship Multiplayer Game:  
   - https://battleship.lordeiro.com
 - 📋 Online Mortgage Calculator:  
